@@ -1,5 +1,7 @@
 # Stage 3 Report
 
+GITHUB: https://github.com/Tatters1996/431W-Project
+
 ### 1. Overview
 
 The CLI interface allows users to perform various database operations such as inserting, updating, deleting, and querying data. It also supports advanced features like aggregation, sorting, joins, grouping, subqueries, transactions, and error handling.
